@@ -1,0 +1,59 @@
+ .gutter-row{
+    display: flex;
+    justify-content: space-between;
+
+    padding-top: 10px;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+   
+    padding-top: 20px;
+    margin-left: 559px;
+}
+.ant-card {
+
+    font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.65);
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 14px;
+    padding: 0px;
+    list-style: none;
+    background: #fff;
+    border-radius: 2px;
+    position: relative;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+
+}
+
+.headerFurniture{
+    display: flex;
+    margin-top: 150px;
+    padding-left: 550px;
+    justify-content: space-between;
+}
+
+.Furniture{
+    display: flex;
+
+    padding-right: 50px;
+  
+
+}
+
+.ant-card-bordered {
+
+        border: 1px  #e8e8e8 !important;
+        border-top-color: rgb(232, 232, 232);
+        border-right-color: rgb(232, 232, 232);
+        border-bottom-color: rgb(232, 232, 232);
+        border-left-color: rgb(232, 232, 232);
+
+}
